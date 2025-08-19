@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://technortesolucoes.com.br/sitemap.xml
