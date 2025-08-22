@@ -11,7 +11,7 @@ A proposta do meu trabalho é **ajudar empresas e empreendedores a expandirem su
 
 ## 🛠️ Tecnologias utilizadas  
 
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** HTML, CSS, PHP e JavaScript  
 - **Design Responsivo:** foco em acessibilidade e experiência do usuário  
 - **Versionamento:** Git & GitHub Pages para deploy  
 - **Outras stacks em uso em projetos:** React.js, Firebase, Node.js  
